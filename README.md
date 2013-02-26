@@ -1,4 +1,4 @@
-vizinhocas
+Vizinhocas
 ==========
 
-Site do Coolmeia para compartilhamento de utensílios e serviços
+Site da Coolmeia para compartilhamento e trocas de bens, serviços, conhecimento, habilidades e tempo.
