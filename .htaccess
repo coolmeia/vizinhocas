@@ -1,0 +1,4 @@
+# Use PHP 5.3
+AddType application/x-httpd-php53 .php
+
+php_value date.timezone America/Sao_Paulo 
